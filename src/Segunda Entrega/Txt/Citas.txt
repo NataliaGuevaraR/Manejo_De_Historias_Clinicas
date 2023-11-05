@@ -1,0 +1,19 @@
+Carlos López,3456789012,Pediatría
+Luis Martínez,4567890123,Oftalmología
+Laura Rodriguez,5678901234,Neurología
+Ana González,6789012345,Ginecología
+Diego Hernandez,7890123456,Ortopedia
+Sofia Diaz,8901234567,Urología
+Miguel Rivera,9012345678,Oncología
+Isabella Gomez,0123456789,Endocrinología
+Julio Fernandez,1234567890,Gastroenterología
+Elena Torres,2345678901,Psiquiatría
+Mario Sánchez,3456789012,Otorrinolaringología
+Valeria Jimenez,4567890123,Anestesiología
+Javier Ruiz,5678901234,Cardiología
+Camila Soto,6789012345,Dermatología
+Sebastian Reyes,7890123456,Pediatría
+Mateo Herrera,8901234567,Oftalmología
+Luna Mendoza,9012345678,Neurología
+Nicolás Rojas,0123456789,Ginecología
+Karen Santamaria,103842742,Medicina General

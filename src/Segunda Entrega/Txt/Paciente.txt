@@ -1,0 +1,8 @@
+Karen,contraseña,Paciente
+Julio,1,Paciente
+Sebastian,1,Paciente
+Sebas,12345,Paciente
+Celina,1,Paciente
+Mago,1,Paciente
+Oscar,1,Paciente
+Evelyn,1,Paciente

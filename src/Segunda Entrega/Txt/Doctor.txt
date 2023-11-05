@@ -1,0 +1,5 @@
+Juan,1,Doctor
+Ana,1,Doctor
+Tomas,1,Doctor
+Juliana,1,Doctor
+David,1,Doctor

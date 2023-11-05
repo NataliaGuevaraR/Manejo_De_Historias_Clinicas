@@ -1,0 +1,2 @@
+Rene,1,Administrador
+Daniel,1,Administrador
