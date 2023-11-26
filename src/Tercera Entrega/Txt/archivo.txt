@@ -1,0 +1,11 @@
+Karen,contraseña,Paciente
+Juan,1,Doctor
+Rene,1,Administrador
+Daniel,1,Administrador
+Julio,1,Paciente
+Sebastian,1,Paciente
+Sebas,12345,Paciente
+Celina,1,Paciente
+Mago,1,Paciente
+Aleja,1,Doctor
+Fausto,1,Paciente
